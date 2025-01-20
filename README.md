@@ -1,5 +1,4 @@
 # apnacollege-demo
-this is my f
-irst  git project
+this is my first  git project
 <br>
 Author-shivam yadav
